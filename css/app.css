@@ -43,7 +43,7 @@ input[type="submit"] {
 	height: auto;
 }
 .error {
-	background-color: #b7322c;
+	background-color: #e5383b;
 	border-radius: 5px;
 	padding: 1rem;
 	color: white;
